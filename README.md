@@ -28,8 +28,8 @@ If the player hits the middle of the boat and if it is the first hit of the boat
 Two players are connected simultaneously on two different clients and so can play the game simulatneously on two different computers. The indication of whether the player has hit the ship or not is sent to both the players. Thus, the result of each other's move is informed to both the players. Also, when the game is over, result is declared to both the players. 
 
 ### Modular code:
-1. Client 1 - Player 1 is initialised
-2. Client 2 - Player 2 is initialised
+1. Client 1 - Player 1 is initialized
+2. Client 2 - Player 2 is initialized
 3. Create Ship - Ship objects are initialised
 4. Main Algortihm - The battleship algorithm is implemented
 5. TCP Connection  
