@@ -1,6 +1,6 @@
 # Battleship_Game-using-TCP
 
-The above code implements a two-way communication with TCP protocol in JAVA to play Battleship game simultaneously with multiple players which are connected to different servers.
+The above code implements a two-way communication with TCP protocol in JAVA to play Battleship game simultaneously with multiple players which are connected to different clients.
 
 There are 3 main parts of the code - 
 1. Main Algorithm - The algorithm of battleship game is included.
@@ -25,7 +25,7 @@ There is a little twist added to the game -
 If the player hits the middle of the boat and if it is the first hit of the boat, then the entire boat will sink.
  
 ### Explaination:
-Two players are connected simultaneously on two different servers and so can play the game simulatneously on two different computers. The indication of whether the player has hit the ship or not is sent to both the players. Thus, the result of each other's move is informed to both the players. Also, when the game is over, result is declared to both the players. 
+Two players are connected simultaneously on two different clients and so can play the game simulatneously on two different computers. The indication of whether the player has hit the ship or not is sent to both the players. Thus, the result of each other's move is informed to both the players. Also, when the game is over, result is declared to both the players. 
 
 ### Modular code:
 1. 
