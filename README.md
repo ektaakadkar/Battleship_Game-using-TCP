@@ -20,6 +20,6 @@ The normal rules of the battleship game are as follows:
 Winning rule - 
 The player who sinks all the boats in the sea is the winner of the game.
 
-# Extra rule added:
+## Extra rule added:
  There is a little twist added to the game - 
  If the player hits the middle of the boat and if it is the first hit of the boat
