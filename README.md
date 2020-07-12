@@ -30,7 +30,7 @@ Two players are connected simultaneously on two different clients and so can pla
 ### Modular code:
 1. Client 1 - Player 1 is initialized
 2. Client 2 - Player 2 is initialized
-3. Create Ship - Ship objects are initialised
+3. Create Ship - Ship objects are initialized
 4. Main Algortihm - The battleship algorithm is implemented
 5. TCP Connection  
 6. Client Algorithm - The algorithm for the communication between the players is written.
